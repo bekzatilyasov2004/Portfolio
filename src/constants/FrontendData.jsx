@@ -1,0 +1,18 @@
+export const frontendSkills = [
+    { name: "HTML", level: 95 },
+    { name: "CSS", level: 90 },
+    { name: "JavaScript", level: 85 },
+    { name: "React", level: 90 },
+    { name: "Chakra UI", level: 85 },
+    { name: "Tailwind CSS", level: 80 },
+    { name: "Material-UI", level: 80 },
+    { name: "Ant Design", level: 75 },
+    { name: "Redux", level: 85 },
+    { name: "TypeScript", level: 80 },
+    { name: "Next.js", level: 80 },
+    { name: "Firebase", level: 75 },
+    { name: "Bootstrap 5", level: 85 },
+    { name: "Framer Motion", level: 70 },
+    { name: "Zustand", level: 65 },
+    { name: "Figma", level: 80 },
+];
